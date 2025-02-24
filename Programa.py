@@ -7,6 +7,8 @@
 # Función para calcular el promedio
 def calcular_promedio(notas):
     return sum(notas) / len(notas)
+
+
 # Solicitar el nombre del estudiante
 nombre = input("Ingresa el nombre del estudiante: ")
 
