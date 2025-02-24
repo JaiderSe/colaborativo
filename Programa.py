@@ -4,6 +4,7 @@
 #  dirá si el estudiante está en riesgo (si el promedio es menor a 3.0).
 
  
+ 
 # ###
 
 # Función para calcular el promedio
