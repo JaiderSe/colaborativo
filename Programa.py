@@ -15,4 +15,5 @@ nombre = input("Ingresa el nombre del estudiante: ")
 notas = []
 for i in range(1, 6):
     nota = float(input(f"Ingrese la nota {i}: "))
-    notas.append(nota)
+    notas.append(nota)  
+    
